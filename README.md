@@ -39,6 +39,13 @@ Soy desarrollador en constante evolución, con experiencia en automatización de
 
 ---
 
+🤝 **¿Trabajamos juntos?**
+
+Estoy abierto a **oportunidades laborales** (remotas o freelance) y a **colaboraciones en proyectos relacionados con Python, RPA o scraping**.  
+No dudes en escribirme o conectar por LinkedIn.
+
+---
+
 📊 **GitHub Stats**
 
 <p align="center">

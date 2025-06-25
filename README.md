@@ -14,10 +14,10 @@ Soy desarrollador en constante evolución, con experiencia en automatización de
 
 🛠️ **Tecnologías y herramientas**
 
-- Python - BeautifulSoup - Request
-- RPA con Rocketbot y Power Automate
-- Excel, JSON, TXT para procesamiento de datos
-- HTML, CSS y JavaScrip
+- Python · BeautifulSoup · Requests
+- RPA con Rocketbot · Power Automate
+- Excel · JSON · TXT 
+- HTML · CSS · JavaScript
 
 ---
 
@@ -25,10 +25,10 @@ Soy desarrollador en constante evolución, con experiencia en automatización de
 
 | Proyecto | Descripción | Enlace |
 |----------|-------------|--------|
-| Webscraping Libros | Extrae libros desde un sitio web y los guarda en un excel | [ver repo](https://github.com/Marcelorp89/Scraping-excel) |
-| Scraping JSON | Datos estructurados en JSON | [ver repo](https://github.com/Marcelorp89/Scraping-json) |
-| Scraping consola | Muestra un listado de libros desde terminal | [ver repo](https://github.com/Marcelorp89/Scraping-consola) |
-| Portafolio web | Muestra mis proyectos de scraping en la web | [ver repo](https://github.com/Marcelorp89/portafolio-web-scraping) |
+| Webscraping Libros | Extrae libros desde un sitio web y los guarda en un excel | [🔗 Ver repo](https://github.com/Marcelorp89/Scraping-excel) |
+| Scraping JSON | Datos estructurados en JSON | [🔗 Ver repo](https://github.com/Marcelorp89/Scraping-json) |
+| Scraping consola | Muestra un listado de libros desde terminal | [🔗 Ver repo](https://github.com/Marcelorp89/Scraping-consola) |
+| Portafolio web | Muestra mis proyectos de scraping en la web | [🔗 Ver repo](https://github.com/Marcelorp89/portafolio-web-scraping) |
 
 ---
 
